@@ -1,8 +1,0 @@
-dependecies:
-  - pytesseract
-  - glob
-  - pandas
-  - re
-  - PIL
-  - csv
-  
