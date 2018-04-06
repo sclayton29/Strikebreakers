@@ -1,0 +1,11 @@
+channels: 
+  - conda-forge
+  - defaults
+dependecies:
+  - pytesseract
+  - glob
+  - pandas
+  - re
+  - PIL
+  - csv
+  
